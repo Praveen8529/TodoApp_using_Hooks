@@ -12,3 +12,6 @@ Checkout this repo, install dependencies, then start the webpack process with th
 > cd TodoApp_using_Hooks
 > npm install
 > npm start
+<br/>
+Try playing with the code on CodeSandbox :) 
+https://codesandbox.io/s/clever-bird-3vnm2
