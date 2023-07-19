@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TodoApp_using_Hooks
+  annotations:
+    github.com/project-slug: Praveen8529/TodoApp_using_Hooks
+spec:
+  type: other
+  lifecycle: unknown
+  owner: praveen8529
